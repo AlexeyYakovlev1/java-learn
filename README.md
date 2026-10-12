@@ -1,67 +1,67 @@
 Темы для изучения:
-- JDK, JRE, JVM
-- Установка окружения, первая программа
-- Переменные, примитивные типы данных
-- Операторы (арифметические, логические, сравнения)
-- Ветвления (if-else, switch, тернарный оператор)
-- Циклы (for, while, do-while, break, continue)
-- Массивы (одномерные, многомерные)
-- Методы (создание, параметры, возврат, перегрузка)
-- Классы и объекты
-- Конструкторы, ключевое слово this
-- Ключевое слово static
-- Модификаторы доступа (public, private, protected, default)
-- Строки (String, StringBuilder, StringBuffer, пул строк)
-- Инкапсуляция, геттеры и сеттеры
-- Наследование (extends, super, переопределение)
-- Полиморфизм, приведение типов (casting)
-- Абстракция (abstract classes, interfaces, default методы)
-- Класс Object (equals, hashCode, toString, getClass)
-- Enum (перечисления)
-- Исключения (Throwable, Exception, Error)
-- Checked и Unchecked исключения
-- try-catch-finally, try-with-resources
-- Создание своих исключений
-- Generics (дженерики, wildcards, type erasure)
-- Коллекции (List, ArrayList, LinkedList)
-- Коллекции (Set, HashSet, TreeSet, LinkedHashSet)
-- Коллекции (Map, HashMap, TreeMap, LinkedHashMap)
-- Коллекции (Queue, Deque, PriorityQueue, ArrayDeque)
-- Итераторы, Comparable, Comparator
-- Дата и время (java.time)
-- Ввод/вывод (I/O, NIO, File, Path, Files)
-- Потоки байтов и символов (InputStream, OutputStream, Reader, Writer)
-- Сериализация
-- Лямбда-выражения
-- Функциональные интерфейсы (Function, Predicate, Consumer, Supplier)
-- Stream API (map, filter, reduce, collect)
-- Optional
-- Многопоточность (Thread, Runnable)
-- Синхронизация (synchronized, volatile, Atomic)
-- Пулы потоков (ExecutorService, ThreadPoolExecutor)
-- CompletableFuture
-- Проблемы многопоточности (Deadlock, Race Condition)
-- JVM (Heap, Stack, Metaspace)
-- Сборка мусора (Garbage Collection)
-- Загрузка классов (ClassLoaders)
-- Аннотации (создание, Retention, Target)
-- Reflection API
-- Git (команды, ветвление, merge, rebase)
-- Maven / Gradle
-- JUnit 5, Mockito
-- Логирование (SLF4J, Logback, Log4j2)
-- IntelliJ IDEA (отладка, горячие клавиши)
-- SQL (PostgreSQL / MySQL)
-- SQL (SELECT, JOIN, GROUP BY, индексы)
-- Транзакции (ACID)
-- JDBC
-- HTTP/HTTPS (методы, статус-коды, заголовки)
-- REST API
-- JSON (Jackson, Gson)
-- Spring Framework (IoC, DI)
-- Spring Boot
-- Spring Data JPA / Hibernate
-- Spring Security (JWT)
-- Docker
-- Kafka
-- Redis
+- JDK, JRE, JVM [x]
+- Установка окружения, первая программа  []
+- Переменные, примитивные типы данных []
+- Операторы (арифметические, логические, сравнения) []
+- Ветвления (if-else, switch, тернарный оператор) []
+- Циклы (for, while, do-while, break, continue) []
+- Массивы (одномерные, многомерные) []
+- Методы (создание, параметры, возврат, перегрузка) []
+- Классы и объекты []
+- Конструкторы, ключевое слово this []
+- Ключевое слово static []
+- Модификаторы доступа (public, private, protected, default) []
+- Строки (String, StringBuilder, StringBuffer, пул строк) []
+- Инкапсуляция, геттеры и сеттеры []
+- Наследование (extends, super, переопределение) []
+- Полиморфизм, приведение типов (casting) []
+- Абстракция (abstract classes, interfaces, default методы) []
+- Класс Object (equals, hashCode, toString, getClass) []
+- Enum (перечисления) []
+- Исключения (Throwable, Exception, Error) []
+- Checked и Unchecked исключения []
+- try-catch-finally, try-with-resources []
+- Создание своих исключений []
+- Generics (дженерики, wildcards, type erasure) []
+- Коллекции (List, ArrayList, LinkedList) []
+- Коллекции (Set, HashSet, TreeSet, LinkedHashSet) []
+- Коллекции (Map, HashMap, TreeMap, LinkedHashMap) []
+- Коллекции (Queue, Deque, PriorityQueue, ArrayDeque) []
+- Итераторы, Comparable, Comparator []
+- Дата и время (java.time) []
+- Ввод/вывод (I/O, NIO, File, Path, Files) []
+- Потоки байтов и символов (InputStream, OutputStream, Reader, Writer) []
+- Сериализация []
+- Лямбда-выражения []
+- Функциональные интерфейсы (Function, Predicate, Consumer, Supplier) []
+- Stream API (map, filter, reduce, collect) []
+- Optional []
+- Многопоточность (Thread, Runnable) []
+- Синхронизация (synchronized, volatile, Atomic) []
+- Пулы потоков (ExecutorService, ThreadPoolExecutor) []
+- CompletableFuture []
+- Проблемы многопоточности (Deadlock, Race Condition) []
+- JVM (Heap, Stack, Metaspace) []
+- Сборка мусора (Garbage Collection) []
+- Загрузка классов (ClassLoaders) []
+- Аннотации (создание, Retention, Target) []
+- Reflection API []
+- Git (команды, ветвление, merge, rebase) []
+- Maven / Gradle []
+- JUnit 5, Mockito []
+- Логирование (SLF4J, Logback, Log4j2) []
+- IntelliJ IDEA (отладка, горячие клавиши) []
+- SQL (PostgreSQL / MySQL) []
+- SQL (SELECT, JOIN, GROUP BY, индексы) []
+- Транзакции (ACID) []
+- JDBC []
+- HTTP/HTTPS (методы, статус-коды, заголовки) []
+- REST API []
+- JSON (Jackson, Gson) []
+- Spring Framework (IoC, DI) []
+- Spring Boot []
+- Spring Data JPA / Hibernate []
+- Spring Security (JWT) []
+- Docker []
+- Kafka []
+- Redis []
