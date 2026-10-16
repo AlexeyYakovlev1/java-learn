@@ -11,7 +11,7 @@
 - 10) Конструкторы, ключевое слово this [x]
 - 11) Ключевое слово static [x]
 - 12) Модификаторы доступа (public, private, protected, default) [x]
-- 13) Строки (String, StringBuilder, StringBuffer, пул строк) []
+- 13) Строки (String, StringBuilder, StringBuffer, пул строк) [x]
 - 14) Инкапсуляция, геттеры и сеттеры []
 - 15) Наследование (extends, super, переопределение) []
 - 16) Полиморфизм, приведение типов (casting) []
