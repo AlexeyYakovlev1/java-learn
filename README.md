@@ -14,7 +14,7 @@
 - 13) Строки (String, StringBuilder, StringBuffer, пул строк) [x]
 - 14) Инкапсуляция, геттеры и сеттеры [x]
 - 15) Наследование (extends, super, переопределение) [x]
-- 16) Полиморфизм, приведение типов (casting) []
+- 16) Полиморфизм, приведение типов (casting) [x]
 - 17) Абстракция (abstract classes, interfaces, default методы) []
 - 18) Класс Object (equals, hashCode, toString, getClass) []
 - 19) Enum (перечисления) []
