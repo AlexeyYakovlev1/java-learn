@@ -15,7 +15,7 @@
 - 14) Инкапсуляция, геттеры и сеттеры [x]
 - 15) Наследование (extends, super, переопределение) [x]
 - 16) Полиморфизм, приведение типов (casting) [x]
-- 17) Абстракция (abstract classes, interfaces, default методы) []
+- 17) Абстракция (abstract classes, interfaces, default методы) [x]
 - 18) Класс Object (equals, hashCode, toString, getClass) []
 - 19) Enum (перечисления) []
 - 20) Исключения (Throwable, Exception, Error) []
