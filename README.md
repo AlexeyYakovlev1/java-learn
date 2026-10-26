@@ -17,7 +17,7 @@
 - 16) Полиморфизм, приведение типов (casting) [x]
 - 17) Абстракция (abstract classes, interfaces, default методы) [x]
 - 18) Класс Object (equals, hashCode, toString, getClass) [x]
-- 19) Enum (перечисления) []
+- 19) Enum (перечисления) [x]
 - 20) Исключения (Throwable, Exception, Error) []
 - 21) Checked и Unchecked исключения []
 - 22) try-catch-finally, try-with-resources []
