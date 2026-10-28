@@ -20,7 +20,7 @@
 - 19) Enum (перечисления) [x]
 - 20) Исключения (Throwable, Exception, Error) [x]
 - 21) Checked и Unchecked исключения [x]
-- 22) try-catch-finally, try-with-resources []
+- 22) try-catch-finally, try-with-resources [x]
 - 23) Создание своих исключений []
 - 24) Generics (дженерики, wildcards, type erasure) []
 - 25) Коллекции (List, ArrayList, LinkedList) []
