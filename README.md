@@ -23,7 +23,7 @@
 - 22) try-catch-finally, try-with-resources [x]
 - 23) Создание своих исключений [x]
 - 24) Generics (дженерики, wildcards, type erasure) [x]
-- 25) Коллекции (List, ArrayList, LinkedList) []
+- 25) Коллекции (List, ArrayList, LinkedList) [x]
 - 26) Коллекции (Set, HashSet, TreeSet, LinkedHashSet) []
 - 27) Коллекции (Map, HashMap, TreeMap, LinkedHashMap) []
 - 28) Коллекции (Queue, Deque, PriorityQueue, ArrayDeque) []
