@@ -24,7 +24,7 @@
 - 23) Создание своих исключений [x]
 - 24) Generics (дженерики, wildcards, type erasure) [x]
 - 25) Коллекции (List, ArrayList, LinkedList) [x]
-- 26) Коллекции (Set, HashSet, TreeSet, LinkedHashSet) []
+- 26) Коллекции (Set, HashSet, TreeSet, LinkedHashSet) [x]
 - 27) Коллекции (Map, HashMap, TreeMap, LinkedHashMap) []
 - 28) Коллекции (Queue, Deque, PriorityQueue, ArrayDeque) []
 - 29) Итераторы, Comparable, Comparator []
